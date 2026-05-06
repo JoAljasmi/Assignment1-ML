@@ -1,0 +1,12 @@
+{
+  "classic": {
+    "best_epoch": 15,
+    "test_loss": 1.4499311659084675,
+    "test_acc": 0.49210392256749874
+  },
+  "transfer_learning": {
+    "best_epoch": 5,
+    "test_loss": 0.11513920665979081,
+    "test_acc": 0.9691798267957208
+  }
+}

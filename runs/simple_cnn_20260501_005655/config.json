@@ -1,0 +1,9 @@
+{
+  "epochs": 6,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "dropout": 0.3,
+  "batch_size": 128,
+  "model": "SimpleCNN",
+  "num_kernels": 16
+}

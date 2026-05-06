@@ -1,0 +1,66 @@
+{
+  "best_accuracy": 99.47,
+  "total_time_seconds": 165.0,
+  "epochs": [
+    {
+      "epoch": 1,
+      "loss": 0.1362,
+      "accuracy": 98.74,
+      "time_seconds": 14.9
+    },
+    {
+      "epoch": 2,
+      "loss": 0.0607,
+      "accuracy": 99.19,
+      "time_seconds": 14.5
+    },
+    {
+      "epoch": 3,
+      "loss": 0.0464,
+      "accuracy": 99.02,
+      "time_seconds": 14.5
+    },
+    {
+      "epoch": 4,
+      "loss": 0.0378,
+      "accuracy": 98.96,
+      "time_seconds": 14.5
+    },
+    {
+      "epoch": 5,
+      "loss": 0.0333,
+      "accuracy": 99.24,
+      "time_seconds": 14.6
+    },
+    {
+      "epoch": 6,
+      "loss": 0.0265,
+      "accuracy": 99.18,
+      "time_seconds": 14.7
+    },
+    {
+      "epoch": 7,
+      "loss": 0.0212,
+      "accuracy": 99.24,
+      "time_seconds": 14.1
+    },
+    {
+      "epoch": 8,
+      "loss": 0.0215,
+      "accuracy": 99.29,
+      "time_seconds": 14.1
+    },
+    {
+      "epoch": 9,
+      "loss": 0.0179,
+      "accuracy": 99.29,
+      "time_seconds": 15.0
+    },
+    {
+      "epoch": 10,
+      "loss": 0.0155,
+      "accuracy": 99.47,
+      "time_seconds": 15.1
+    }
+  ]
+}
