@@ -1,3 +1,18 @@
 *.pth
 data/
 runs/*/checkpoints/
+# Data
+data/
+
+# Model weights — too big, regeneratable
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
